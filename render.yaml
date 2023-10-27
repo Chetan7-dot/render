@@ -2,7 +2,7 @@ databases:
   - name: postgres
     ipAllowList: []
     databaseName: render_prod
-    user: postgres
+    user: chetu
 
 services:
   - type: web
